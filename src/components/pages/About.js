@@ -1,4 +1,5 @@
 import React from 'react';
+import Vmc from './inc/Vmc.js';
 
 function Aboutus() {
     return (
@@ -18,7 +19,7 @@ function Aboutus() {
                 </div>
             </section>
 
-            <section className="section bg-c-light boder-bottom">
+            <section className="section bg-dark text-white p-3 boder-bottom">
                 <div className="container">
                     <h5 className="main-heading">Our Company</h5>
                     <div className="underline"></div>
@@ -30,6 +31,9 @@ function Aboutus() {
                 </div>
 
             </section>
+            {/* Our vision , mission and value */}
+
+            <Vmc />
         </div>
     );
 };
