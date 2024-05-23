@@ -12,25 +12,24 @@ function Vmc() {
                     <div className="col-md-4 text-center">
                         <h6>Our Vision</h6>
                         <p>
-                            Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-                            Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
-                            when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+                            To establish Uttar Pradesh as a premier global tourism destination that showcases its rich cultural heritage,
+                            vibrant traditions, and diverse natural landscapes. We aim to enhance the visitor experience through sustainable tourism practices,
+                            infrastructure development, and innovative promotional strategies, fostering economic growth and cultural exchange.
                         </p>
                     </div>
                     <div className="col-md-4 text-center">
                         <h6>Our Mission</h6>
                         <p>
-                            Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-                            Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
-                            when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+                            <b>Preservation and Promotion:</b> Protect and promote the unique cultural, historical, and natural assets of Uttar Pradesh. <br />
+                            <b>Infrastructure Development:</b> Enhance and expand tourism infrastructure to ensure world-class facilities and accessibility for tourists.
                         </p>
                     </div>
                     <div className="col-md-4 text-center">
                         <h6>Our Core Value</h6>
                         <p>
-                            Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-                            Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
-                            when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+                            Sustainability: Commitment to eco-friendly and sustainable tourism practices that preserve the environment and heritage for future generations. 
+                            Inclusivity: Ensuring tourism development benefits all segments of society, including local communities, and promotes inclusive growth.
+                             Valuing and respecting the diverse cultural heritage of Uttar Pradesh, and promoting it with dignity and integrity.
                         </p>
                     </div>
                 </div>

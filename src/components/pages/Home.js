@@ -15,12 +15,15 @@ function Home() {
                 <div className="container">
                     <div className="row">
                         <div className="col-md-12 text-center">
-                            <h1 className="main-heading">Our Company</h1>
+                            <h1 className="main-heading">UTTAR PRADESH TOURISM</h1>
+
                             <div className="underline mx-auto"></div>
-                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-                                Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
-                                when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-                                It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
+                            <p>
+                                Embedded in the heart of India is Uttar Pradesh, a land where cultures have evolved and religions have emerged.
+                                The greatness of Uttar Pradesh lies not only in this confluence but also in the emegence of cultural and religious traditions
+                                along some of the greatest rivers in the Indian subcontinent, the Ganga and the Yamuna. Through history, great cities have emerged
+                                and been established along great rivers. Within India, the Ganga and the Yamuna have nurtured a culture because of which religious faith,
+                                rituals, culture, and intellectual enlightenment have evolved in places along the two rivers.
                             </p>
                             <Link to="/about" className="btn btn-warning shadow">Read More</Link>
                         </div>
@@ -66,9 +69,9 @@ function Home() {
                                     <h6> Varanasi</h6>
                                     <div className="underline"></div>
                                     <p>
-                                    The Ganga Aarti in Varanasi, also known as Banaras, is a captivating and revered Hindu ritual dedicated to the River Ganges.
-                                     Conducted daily at the Dashashwamedh Ghat during the evening, this spiritual ceremony involves a series of devotional practices
-                                      performed by priests. They use large fire lamps, incense, and rhythmic chants to honor the river, believed to be a goddess in Hinduism.
+                                        The Ganga Aarti in Varanasi, also known as Banaras, is a captivating and revered Hindu ritual dedicated to the River Ganges.
+                                        Conducted daily at the Dashashwamedh Ghat during the evening, this spiritual ceremony involves a series of devotional practices
+                                        performed by priests. They use large fire lamps, incense, and rhythmic chants to honor the river, believed to be a goddess in Hinduism.
 
                                     </p>
                                     <Link to="/Servise" className="btn btn-link">Read More</Link>
@@ -83,9 +86,9 @@ function Home() {
                                     <h6>Jaunpur</h6>
                                     <div className="underline"></div>
                                     <p>
-                                    Shahi Qila, also known as Jaunpur Fort, is a historic fortress located in Jaunpur, Uttar Pradesh, India. Built in the 14th century by Firoz Shah Tughlaq,
-                                    the fort stands on the banks of the Gomti River. It is renowned for its impressive architecture, including massive gates, ornate balconies, and intricate
-                                    carvings that reflect a blend of Indo-Islamic styles. The Shahi Qila served as a stronghold for the Sharqi dynasty.
+                                        Shahi Qila, also known as Jaunpur Fort, is a historic fortress located in Jaunpur, Uttar Pradesh, India. Built in the 14th century by Firoz Shah Tughlaq,
+                                        the fort stands on the banks of the Gomti River. It is renowned for its impressive architecture, including massive gates, ornate balconies, and intricate
+                                        carvings that reflect a blend of Indo-Islamic styles. The Shahi Qila served as a stronghold for the Sharqi dynasty.
 
                                     </p>
                                     <Link to="/Servise" className="btn btn-link">Read More</Link>
