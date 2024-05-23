@@ -20,14 +20,14 @@ function Vmc() {
                     <div className="col-md-4 text-center">
                         <h6>Our Mission</h6>
                         <p>
-                            <b>Preservation and Promotion:</b> Protect and promote the unique cultural, historical, and natural assets of Uttar Pradesh. <br />
-                            <b>Infrastructure Development:</b> Enhance and expand tourism infrastructure to ensure world-class facilities and accessibility for tourists.
+                            Preservation and Promotion: Protect and promote the unique cultural, historical, and natural assets of Uttar Pradesh. <br />
+                            Infrastructure Development: Enhance and expand tourism infrastructure to ensure world-class facilities and accessibility for tourists.
                         </p>
                     </div>
                     <div className="col-md-4 text-center">
                         <h6>Our Core Value</h6>
                         <p>
-                            Sustainability: Commitment to eco-friendly and sustainable tourism practices that preserve the environment and heritage for future generations. 
+                            Sustainability: Commitment to eco-friendly and sustainable tourism practices that preserve the environment and heritage for future generations.
                             Inclusivity: Ensuring tourism development benefits all segments of society, including local communities, and promotes inclusive growth.
                              Valuing and respecting the diverse cultural heritage of Uttar Pradesh, and promoting it with dignity and integrity.
                         </p>
