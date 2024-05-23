@@ -33,3 +33,9 @@ p{
 .footer a:hover{
   color: gray;
 }
+.custom-height {
+  height: 700px;
+  object-fit: cover; /* Ensures the image covers the area without distortion */
+}
+
+
